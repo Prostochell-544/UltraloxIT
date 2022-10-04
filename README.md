@@ -3,7 +3,7 @@
 ## I'm a LTPU and Samsung student!
 - 🇷🇺 I'm from Russia, Tomsk
 - 👨🏻‍🎓 I’m start learning  programming
-- - ✈ Try to understand names of mine programs
+- ✈ Try to understand names of mine programs
 
 ### ☎️ Connect with me:
 
