@@ -1,7 +1,10 @@
 #В этой репозитории говнокод на phyton и не толька
+
 #Егоров Юрий
- #ссылка на опенпроцессинг - https://editor.p5js.org/uriego544/sketches 
- #Сайт - https://prostochell-228.github.io/
+ 
+#ссылка на опенпроцессинг - https://editor.p5js.org/uriego544/sketches 
+ 
+#Сайт - https://prostochell-228.github.io/
 __________________________________________
 
 1) Код/ГовноКод/SU-7(base) - база данных в пайтоне с выбором запроса.
