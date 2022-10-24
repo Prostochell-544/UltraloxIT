@@ -1,0 +1,11 @@
+1. SHOW TABLES 6
+2.   
+Class 
+Grades
+Movi
+Movies
+Users
+3.  SELECT FROM * grades
+4   SELECT FROM * users 
+5. SELECT * FROM  users, grades where users.user_id = grades.user_id
+6. SELECT * FROM users where name = 'Юрий' AND fam = 'Егоров'
