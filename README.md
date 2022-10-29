@@ -19,3 +19,4 @@ __________________________________________
 10) Код/ГовноКод/Nsim.png - Неронка квадратное уравнение
 11) Untitled0.ipynb - Код Хемминга в Google Colab.
 12) Sql -  тренировка по сикуэлю
+$$ A\leftrightarrow B = ({\overline{A}}\vee B) \wedge  ({\overline{B}}\vee A) $$
