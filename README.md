@@ -21,3 +21,4 @@ __________________________________________
 12) Sql -  тренировка по сикуэлю
 
 $$A\leftrightarrow B = ({\overline{A}}\vee B) \wedge  ({\overline{B}}\vee A)$$
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114381954/198813006-20907535-3b5c-4544-8fab-7353c8712978.png)
