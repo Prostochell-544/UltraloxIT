@@ -20,6 +20,11 @@ __________________________________________
 11) Untitled0.ipynb - Код Хемминга в Google Colab.
 12) Sql -  тренировка по сикуэлю
 
+
+[smile.pdf](https://github.com/Prostochell-228/UltraloxIT/files/10251846/smile.pdf)
+
+
+
 $$A\leftrightarrow B = ({\overline{A}}\vee B) \wedge  ({\overline{B}}\vee A)$$
 
 
