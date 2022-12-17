@@ -21,6 +21,7 @@ __________________________________________
 12) Sql -  тренировка по сикуэлю
 
 
+[Vetka.pdf](https://github.com/Prostochell-228/UltraloxIT/files/10252178/Vetka.pdf)
 [smile.pdf](https://github.com/Prostochell-228/UltraloxIT/files/10251846/smile.pdf)
 
 
