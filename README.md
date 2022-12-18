@@ -35,5 +35,5 @@ $$v=\sqrt{\frac{GM}{R}}$$
 $$i\bar{h}\frac{\delta}{\delta t}\Psi=\hat{H}(p,q)\Psi$$
 
 
-$$\mathrm{H_2C \=\ CH_2}+H_2О\xrightarrow{H_2SO_4}H_3C-CH_2-OH$$
+$$\mathrm{H_2C\=\CH_2}+H_2О\xrightarrow{H_2SO_4}H_3C-CH_2-OH$$
 
