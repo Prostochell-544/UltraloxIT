@@ -35,4 +35,7 @@ $$v=\sqrt{\frac{GM}{R}}$$
 $$i\bar{h}\frac{\delta}{\delta t}\Psi=\hat{H}(p,q)\Psi$$
 
 
+$$\mathrm{H_2C \! = \! CH_2}+H_2О\xrightarrow{H_2SO_4}H_3C-CH_2-OH$$
+
+
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114381954/198813006-20907535-3b5c-4544-8fab-7353c8712978.png)
