@@ -25,15 +25,18 @@ __________________________________________
 [smile.pdf](https://github.com/Prostochell-228/UltraloxIT/files/10251846/smile.pdf)
 
 
-
+Логическая формула:
 $$A\leftrightarrow B = ({\overline{A}}\vee B) \wedge  ({\overline{B}}\vee A)$$
 
 
+Первая космическая скорость:
 $$v=\sqrt{\frac{GM}{R}}$$
 
 
+Уравнение Щрёдингера:
 $$i\bar{h}\frac{\delta}{\delta t}\Psi=\hat{H}(p,q)\Psi$$
 
 
+Получение этилового спирта:
 $$\mathrm{H_2C\=\ CH_2}+H_2О\xrightarrow{H_2SO_4}H_3C-CH_2-OH$$
 
