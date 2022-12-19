@@ -37,6 +37,9 @@ __________________________________________
 10) Код/ГовноКод/Nsim.png - Неронка квадратное уравнение
 11) Untitled0.ipynb - Код Хемминга в Google Colab.
 12) Sql -  тренировка по сикуэлю
+13) Код/Графика/Gordon_Freeman_in_HEV_in_Sybiria_ и Gordon_Freeman_in_Tomsk картинка по запросу
+14) Код/Графика/Avatar_pilot своя аватарка 
+15) Код/Графика/HatsuneMiku+Doktor соединение двух картинок
 
 
 [Vetka.pdf](https://github.com/Prostochell-228/UltraloxIT/files/10252178/Vetka.pdf)
