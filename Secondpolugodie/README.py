@@ -37,8 +37,7 @@
    
    4) Переводим в десятичную и проверяем на условия
     
-   
-```python  
+   ```python  
     chislo=''
     num=(bin(i)[2:])   
     if num.count('1')%2==0:
@@ -48,7 +47,7 @@
     if int(chislo,2)>40:    
         print (i, int(chislo,2))        
         break
-```
+    ```
 
 6. 1) вспомнить команды turtle
 
