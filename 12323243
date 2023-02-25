@@ -1,0 +1,10 @@
+with open('27-A.txt') as f:
+    n = int(f.readline())
+    m = ([int(x) for x in f][:n] * 3)[n // 2:-n // 2]
+x = len(m) // 2;
+pr = 0;
+
+for i in range(len(m)-1):
+    ind=i
+    for i in range(len(m)):
+        mс = m[ind+i]
