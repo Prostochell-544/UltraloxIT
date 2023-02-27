@@ -1,0 +1,20 @@
+with open('27-A.txt') as f:
+    n = int(f.readline())
+    m = ([int(x) for x in f][:n] * 3)[n // 2:-n // 2]
+l = len(m) // 2;
+summY = 2147483648
+for i in range(len(m) - 1):
+    k = m[i:i+len(m)]
+    for j in range(len(m)):
+        if j <= l:
+            summX = k[j] * (j+i)
+        else:
+            summX = k[j] * (j-i)
+            print(j)
+
+    if summX < summY:
+        summY = summX
+        summX = 0
+    else:
+        summX = 0
+print(summY)
